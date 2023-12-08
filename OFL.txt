@@ -1,7 +1,4 @@
-Copyright (c) 2010, Sebastian Kosch (sebastian@aldusleaf.org),
-with Reserved Font Name Crimson.
-Additions and modifications copyright (c) 2015--23, Michael Sharpe (msharpe@ucsd.edu)
-Additions and modifications copyright (c) 2023, Michele Casanova
+Copyright (c) 2010, Sebastian Kosch (sebastian@aldusleaf.org) with Reserved Font Name Crimson. Additions and modifications copyright (c) 2015--23, Michael Sharpe (msharpe@ucsd.edu). Additions and modifications copyright (c) 2023, Michele Casanova.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
