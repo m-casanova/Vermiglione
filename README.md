@@ -1,7 +1,9 @@
 # Vermiglione
 - Versione 1.0: versione iniziale.
 
-Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/Vermiglione/).
+La versione variabile è disponibile nella cartella *font* (formati TTF e WOFF2). La versione fissa (Regular, Medium, SemiBold, Bold con corrispondenti corsivi) è disponibile nelle cartelle *otf* (formato OTF) e *ttf* (formato TTF).
+
+Per testare il font nella versione variabile, vedere la [pagina interattiva](https://m-casanova.github.io/Vermiglione/).
 
 ## Descrizione
 ![image](vermiglione.jpg)
