@@ -101,7 +101,7 @@ div.side {width: 249px; margin: 30px 0 0; padding:10px 10px 5px; float:left; bor
 			<p>Utilizzare le barre di scorrimento per testare il font.</p>
 			<input type="text" class="testo" value="Inserire un testo di prova ÀÈÉÌÒÙßàèéìòù"/>
 			<p><i>Impostazioni:</i> <span id="dati"></span></p>
-			<p><b>wght (400...700):</b> <input id="range_wght" type="range" value="400" min="400" max="700" step="1" oninput="aggiorna('wght', this.value)"></p>
+			<p><b>wght (200...700):</b> <input id="range_wght" type="range" value="400" min="200" max="700" step="1" oninput="aggiorna('wght', this.value)"></p>
 			<p><b>corsivo (0...1)</b>: <input id="range_ital" type="range" value="0" min="0" max="1" step="1" oninput="aggiorna_it(this.value)"></p>
 			<p><button onclick="reset()">Reimposta</button></p>
 
@@ -110,6 +110,7 @@ div.side {width: 249px; margin: 30px 0 0; padding:10px 10px 5px; float:left; bor
 			<p>Il font <a href="https://github.com/skosch/Crimson"><i>Crimson</i></a> è stato realizzato da Sebastian Kosch e distribuito con licenza OFL 1.1; è stato in seguito modificato e ampliato da Michael Sharpe come <a href="https://ctan.org/tex-archive/fonts/cochineal"><i>Cochineal</i></a>.</p>
 			<p>Il font variabile <b>Vermiglione</b> è una derivazione del font <i>Cochineal</i>; ha però un numero limitato di caratteri e sono state inserite alcune modifiche.</p>
 			<p>Essendo un font variabile, permette di avere versioni intermedie tra tondo e grassetto e tra corsivo e grassetto corsivo.</p>
+			<p>Con la versione 1.1 l'intervallo disponibile nel font variabile è stato incluso anche l'intervallo per wght tra 200 e 400 (Cochineal include solo wght 400 e 700).</p>
 			<table cellpadding="0" cellspacing="0">
 				<tr>
 					<th>Weight</th>
