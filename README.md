@@ -1,4 +1,5 @@
 # Vermiglione
+- Versione 1.1: estensione della versione variabile fino wght=200, includendo ExtraLight e Light.
 - Versione 1.0: versione iniziale.
 
 La versione variabile è disponibile nella cartella *font* (formati TTF e WOFF2). La versione fissa (Regular, Medium, SemiBold, Bold con corrispondenti corsivi) è disponibile nelle cartelle *otf* (formato OTF) e *ttf* (formato TTF).
