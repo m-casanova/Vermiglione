@@ -17,3 +17,5 @@ La versione fissa (Regular, News, Medium, SemiBold, Bold con corrispondenti cors
 a sua volta derivato da [*Crimson*](https://github.com/skosch/Crimson) (Sebastian Kosch).
 
 Il font potrebbe presentare alcuni problemi.
+
+![image](vermiglione_2.jpg)
