@@ -1,11 +1,14 @@
 # Vermiglione
+- Versione 1.504: revisione generale e aggiunta di alcuni caratteri
 - Versione 1.105: fix caratteri
 - Versione 1.1: estensione della versione variabile fino wght=200, includendo ExtraLight e Light
 - Versione 1.0: versione iniziale.
 
-La versione variabile è disponibile nella cartella *font* (formati TTF e WOFF2). La versione fissa (Regular, Medium, SemiBold, Bold con corrispondenti corsivi) è disponibile nelle cartelle *otf* (formato OTF) e *ttf* (formato TTF).
-
 Per testare il font nella versione variabile, vedere la [pagina interattiva](https://m-casanova.github.io/Vermiglione/).
+
+##Formati
+La versione variabile è disponibile nella cartella *font* (formati TTF e WOFF2).
+La versione fissa (Regular, News, Medium, SemiBold, Bold con corrispondenti corsivi) è disponibile nelle cartelle *otf* (formato OTF) e *ttf* (formato TTF).
 
 ## Descrizione
 ![image](vermiglione.jpg)
