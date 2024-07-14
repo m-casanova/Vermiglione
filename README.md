@@ -1,4 +1,5 @@
 # Vermiglione
+- Versione 1.505: fix caratteri
 - Versione 1.504: revisione generale e aggiunta di alcuni caratteri
 - Versione 1.105: fix caratteri
 - Versione 1.1: estensione della versione variabile fino wght=200, includendo ExtraLight e Light
