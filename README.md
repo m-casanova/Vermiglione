@@ -7,7 +7,7 @@
 
 Per testare il font nella versione variabile, vedere la [pagina interattiva](https://m-casanova.github.io/Vermiglione/).
 
-##Formati
+## Formati
 La versione variabile è disponibile nella cartella *font* (formati TTF e WOFF2).
 La versione fissa (Regular, News, Medium, SemiBold, Bold con corrispondenti corsivi) è disponibile nelle cartelle *otf* (formato OTF) e *ttf* (formato TTF).
 
